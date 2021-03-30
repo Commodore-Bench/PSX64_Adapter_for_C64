@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SUNLOGO-adafruit
+#
+DEF ~SUNLOGO-adafruit M 0 40 N N 1 L N
+F0 "M" 0 0 45 H I C CNN
+F1 "SUNLOGO-adafruit" 0 0 45 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ *SUN*
+$ENDFPLIST
+DRAW
+C 0 0 100 1 1 0 N
+P 2 1 0 0 -200 0 -300 0 N
+P 2 1 0 0 -100 -100 -200 -200 N
+P 2 1 0 0 -100 100 -200 200 N
+P 2 1 0 0 0 -200 0 -300 N
+P 2 1 0 0 0 200 0 300 N
+P 2 1 0 0 100 -100 200 -200 N
+P 2 1 0 0 100 100 200 200 N
+P 2 1 0 0 200 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library
