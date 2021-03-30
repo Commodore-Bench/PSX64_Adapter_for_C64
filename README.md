@@ -110,7 +110,11 @@ avrdude: safemode: Fuses OK (E:FF, H:C9, L:CE)
 avrdude done. Thank you.
 ```
 
-Damit ist die Programmierung abgeschlossen und der PSX64 Adapter fertig. 
+
+
+This completes the programming and the PSX64 adapter is ready.
+
+
 
 
 
@@ -168,9 +172,9 @@ The brands are only representative. Comparable components from other manufacture
 
 ## PCB
 
-The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/REX_9628_Extern_Kernel_II_8.html), or you can create it yourself from the Gerber files available here.
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/PSX64_Adapter_for_C64.html), or you can create it yourself from the Gerber files available here.
 
-[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/REX_9628_Extern_Kernel_II_8.html)
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/PSX64_Adapter_for_C64.html)
 
 
 
